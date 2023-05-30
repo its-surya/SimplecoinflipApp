@@ -21,7 +21,6 @@ class MainActivity : AppCompatActivity() {
             } else {
                 flipTheCoin(R.drawable.ic_tails , "Tails")
             }
-
         }
     }
 
